@@ -1,0 +1,10 @@
+build
+dist
+__pycache__
+python-mobs_redo
+.spyproject
+*.egg-info
+htmlcov
+.coverage
+*.pyc
+_build
